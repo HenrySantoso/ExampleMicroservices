@@ -80,3 +80,4 @@ C:\GitHub\Microservices\ExampleMicroservices\Play.Catalog\src\Play.Catalog.Servi
 C:\GitHub\Microservices\ExampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\GitHub\Microservices\ExampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\GitHub\Microservices\ExampleMicroservices\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Play.Common.Service.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\Play.Catalog.Service.sourcelink.json
