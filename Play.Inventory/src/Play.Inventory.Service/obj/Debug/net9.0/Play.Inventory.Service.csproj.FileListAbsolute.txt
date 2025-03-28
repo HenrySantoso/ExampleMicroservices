@@ -32,3 +32,16 @@ C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.S
 C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net9.0\Play.Inventory.Service.pdb
 C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net9.0\Play.Inventory.Service.genruntimeconfig.cache
 C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\obj\Debug\net9.0\ref\Play.Inventory.Service.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\DnsClient.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\Play.Common.Service.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\SharpCompress.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\Snappier.dll
+C:\GitHub\Microservices\ExampleMicroservices\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net9.0\ZstdSharp.dll
